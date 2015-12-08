@@ -1,24 +1,25 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <Package xmlns="http://soap.sforce.com/2006/04/metadata">
     <types>
-        <members>*</members>
+        <members>DynamicTriggerGeneration</members>
+        <members>Exampleclass</members>
+        <members>FHT_StoreHistoryDataHandler</members>
+        <members>FieldHistorySetupPageController</members>
+        <members>HandlerFieldHistoryTrack</members>
+        <members>MyClass</members>
+        <members>NewDemoClass</members>
+        <members>ShowDataController</members>
         <name>ApexClass</name>
     </types>
     <types>
-        <members>*</members>
-        <name>ApexComponent</name>
-    </types>
-    <types>
-        <members>*</members>
+        <members>FHT_DisplayData</members>
+        <members>FieldHistorySetupPage</members>
         <name>ApexPage</name>
     </types>
     <types>
-        <members>*</members>
+        <members>AccountHistoryTrackTrigger</members>
+        <members>FieldHistoryTrackSettingTrigger</members>
         <name>ApexTrigger</name>
-    </types>
-    <types>
-        <members>*</members>
-        <name>StaticResource</name>
     </types>
     <version>35.0</version>
 </Package>
